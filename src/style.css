@@ -1,0 +1,22 @@
+.emi-calculator {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+  }
+  
+  .input-container label {
+    display: block;
+  }
+  
+  .input-container input[type="number"],
+  .input-container input[type="range"] {
+    width: 100%;
+  }
+  
